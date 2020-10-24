@@ -1,4 +1,4 @@
-## Pinterest UI Clone
+## 🔴 Pinterest UI Clone
 Clone com a animação da homepage do **Pinterest**
 ## ⌨ Foi utilizado 🖱
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
